@@ -1,0 +1,15 @@
+# data is downloaded and rebuilt by the pipeline (see Makefile)
+data/raw/
+data/processed/
+data/warehouse.duckdb
+data/warehouse.duckdb.wal
+
+# python / tooling
+__pycache__/
+*.pyc
+.venv/
+.ipynb_checkpoints/
+spark-warehouse/
+metastore_db/
+derby.log
+.DS_Store

@@ -1,0 +1,1 @@
+{"device":"mps","torch":"2.14.1","epoch_seconds":{"cpu":37.8254,"mps":4.873},"params":47537,"window":30,"channels":29,"epochs":18,"folds":5,"train_seconds":382.4564,"train_windows":160359}
